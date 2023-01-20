@@ -19,7 +19,7 @@
 #' \code{diffAbundanceFET}, containing a new \code{data.frame} for the analysis
 #' result, named by \code{analysisName}. The \code{data.frame} contains columns
 #' for number and fraction of cells that belong to different cases, as well as
-#' "Odds_Ratio", "PValue" and "FDR".
+#' "Odds_Ratio", "PValue" and "FDR".nida 
 #' @export
 #' @examples
 #' data("mouseBrainSubsetSCE", package = "singleCellTK")
